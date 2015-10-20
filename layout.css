@@ -2,10 +2,19 @@ body {
 	margin-top:90px;
 	font-weight: 300;
 	font-size: 14px;
+	background-color:#FAFAFA;
+}
+
+.navbar {
+	background-color: #5cb85c;
 }
 
 .img-profile {
 	margin-top: -75px;
+	max-width: 110px;
+	padding: 3px;
+    background-color: #fff;
+    border: 1px solid #E5E5E5;
 }
 
 .card-text-link {
@@ -17,7 +26,8 @@ body {
 	margin-top: 10px;
 }
 
-.img-card-profile {
-	margin-top:10px;
+
+.card {
+	background-color: #fff;
 }
 
