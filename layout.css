@@ -3,13 +3,14 @@ body {
 	font-weight: 300;
 	font-size: 14px;
 	/*background-color:#F6FFF5;*/
-	background-color:#F9FFF9;
+	background-color:#f5f8fa;
 	
 }
 
 .navbar {
 	/*background-color: #5cb85c;*/
-	background-color: #EDF9EC;
+	/*background-color: #EDF9EC;*/
+	background-color: #2882b5;
 	box-shadow: 1px 1px 1px #CCC;
 }
 
