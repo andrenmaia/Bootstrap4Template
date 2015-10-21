@@ -2,11 +2,15 @@ body {
 	margin-top:90px;
 	font-weight: 300;
 	font-size: 14px;
-	background-color:#FAFAFA;
+	/*background-color:#F6FFF5;*/
+	background-color:#F9FFF9;
+	
 }
 
 .navbar {
-	background-color: #5cb85c;
+	/*background-color: #5cb85c;*/
+	background-color: #EDF9EC;
+	box-shadow: 1px 1px 1px #CCC;
 }
 
 .img-profile {
